@@ -6,3 +6,4 @@ authors: [ FloCrafter ]
 description: Swagnation Plugin 2024
 website: https://github.com/FloCrafter
 commands:
+  Test:
